@@ -1,0 +1,68 @@
+{
+   "Categories":[
+      {
+         "name":"Light"
+      },
+      {
+         "name":"Dark"
+      }
+   ],
+   "Wallpapers":[
+      {
+         "author":"Advert Pavan",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_0.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_0.png",
+         "name":"Lightning White",
+         "category":"Light"
+      },
+      {
+         "author":"Advert Pavan",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_4.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_4.png",
+         "name":"Meteor Red",
+         "category":"Light"
+      },
+      {
+         "author":"Advert Pavan",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_6.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_6.png",
+         "name":"Meteor Grey",
+         "category":"Light"
+      },
+      {
+         "author":"Advert Pavan",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_1.png",
+         "name":"Lighting Dark",
+         "category":"Dark"
+      },
+      {
+         "author":"Advert Pavan",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_2.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_2.png",
+         "name":"Darker Green",
+         "category":"Dark"
+      },
+      {
+         "author":"Advert Pavan",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_3.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_3.png",
+         "name":"Orange one",
+         "category":"Dark"
+      },
+      {
+         "author":"Advert Pavan",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_5.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_5.png",
+         "name":"Meteor Green",
+         "category":"Dark"
+      },
+      {
+         "author":"Advert Pavan",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_7.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_7.png",
+         "name":"Meteor Yellow",
+         "category":"Dark"
+      }
+   ]
+}
