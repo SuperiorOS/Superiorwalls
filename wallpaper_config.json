@@ -5,64 +5,81 @@
       },
       {
          "name":"Dark"
+      },
+      {
+      "name": "Colorful"
       }
    ],
    "Wallpapers":[
       {
-         "author":"Advert Pavan",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_0.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_0.png",
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_0.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_0.png",
          "name":"Lightning White",
          "category":"Light"
       },
       {
-         "author":"Advert Pavan",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_4.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_4.png",
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wLight_1.png",
          "name":"Meteor Red",
          "category":"Light"
       },
       {
-         "author":"Advert Pavan",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_6.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wallpaper_6.png",
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_2.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_2.png",
          "name":"Meteor Grey",
          "category":"Light"
       },
       {
-         "author":"Advert Pavan",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_1.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_1.png",
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
          "name":"Lighting Dark",
          "category":"Dark"
       },
       {
-         "author":"Advert Pavan",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_2.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_2.png",
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_1.png",
          "name":"Darker Green",
          "category":"Dark"
       },
       {
-         "author":"Advert Pavan",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_3.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_3.png",
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_2.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_2.png",
          "name":"Orange one",
          "category":"Dark"
       },
       {
-         "author":"Advert Pavan",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_5.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_5.png",
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_3.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_3.png",
          "name":"Meteor Green",
          "category":"Dark"
       },
       {
-         "author":"Advert Pavan",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_7.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/wallpaper_7.png",
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_4.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_4.png",
          "name":"Meteor Yellow",
          "category":"Dark"
+      },
+      {
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
+         "name":"Nemesis",
+         "category":"Colorful"
+      },
+      {
+         "author":"Sanketp60",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
+         "name":"Blue + Pink + Black Card",
+         "category":"Colorful"
       }
    ]
 }
