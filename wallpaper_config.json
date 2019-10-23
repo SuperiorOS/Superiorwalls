@@ -34,6 +34,20 @@
       },
       {
          "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-1.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-1.jpg",
+         "name":"Phoenix light concept-1",
+         "category":"Light"
+      },
+      {
+         "author":"Pavan Patel",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
+         "name":"Phoenix light concept-2",
+         "category":"Light"
+      },
+      {
+         "author":"Pavan Patel",
          "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
          "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
          "name":"Lighting Dark",
