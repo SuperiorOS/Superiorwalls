@@ -68,6 +68,20 @@
          "category":"Dark"
       },
       {
+         "author":"Titus Joseph",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_5.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_5.png",
+         "name":"Meteor Grey",
+         "category":"Dark"
+      },
+      {
+         "author":"Titus Joseph",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_6.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_6.png",
+         "name":"Meteor Blue",
+         "category":"Dark"
+      },
+      {
          "author":"Pavan Patel",
          "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
          "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
@@ -79,6 +93,13 @@
          "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
          "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
          "name":"Blue + Pink + Black Card",
+         "category":"Colorful"
+      },
+      {
+         "author":"Titus Joseph",
+         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_2.png",
+         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_2.png",
+         "name":"Meteor Colorful",
          "category":"Colorful"
       }
    ]
