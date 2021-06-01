@@ -1,220 +1,248 @@
-   [
-      {
-         "name":"Lightning White",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_0.png",
-         "dimensions": "720x1280",
-         "collections": "Light"
-      },
-      {
-         "name":"Meteor Red",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_1.png",
-         "dimensions": "720x1280",
-         "collections": "Light"
-      },
-      {
-         "name":"Meteor Grey",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_2.png",
-         "dimensions": "720x1280",
-         "collections": "Light"
-      },
-      {
-         "name":"Phoenix light concept-1",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-1.jpg",
-         "dimensions": "720x1280",
-         "collections": "Light"
-      },
-      {
-         "name":"Phoenix light concept-2",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
-         "dimensions": "720x1280",
-         "collections": "Light"
-      },
-      {
-         "name":" Light Wing",
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Sky_Wing.png",
-         "dimensions": "720x1280",
-         "collections": "Light"
-      },
-      {
-         "name":"Lighting Dark",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Meteor Green",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_3.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Meteor Yellow",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_4.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Meteor Grey",
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_5.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Meteor Blue",
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_6.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Phoenix Concept-1",
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept1.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Phoenix Concept-2",
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept2.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Dark Wing-1",
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing_Identity.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Dark Wing-2",
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-	  {
-         "name":"Dark Wing-3",
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Twilight_Wing.png",
-         "dimensions": "720x1280",
-         "collections": "Dark"
-      },
-      {
-         "name":"Nemesis",
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Blue + Pink + Black Card",
-         "author":"Sanketp60",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Meteor Colorful",
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_2.png",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Phoenix Colorful",
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_3.png",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Phoenix Colorful",
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_4.png",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Phoenix Colorful",
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_5.png",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Phoenix Colorful",
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_6.png",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Phoenix Colorful",
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_7.png",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Whateveristic #1",
-         "author":"Whateveristic",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_01.jpeg",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Whateveristic #2",
-         "author":"Whateveristic",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_02.jpeg",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Whateveristic #3",
-         "author":"Whateveristic",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_03.jpeg",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Whateveristic #4",
-         "author":"Whateveristic",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_04.jpeg",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Whateveristic #5",
-         "author":"Whateveristic",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_05.jpeg",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Whateveristic #6",
-         "author":"Whateveristic",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_06.jpeg",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      },
-      {
-         "name":"Whateveristic #7",
-         "author":"Whateveristic",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_07.jpeg",
-         "dimensions": "720x1280",
-         "collections": "Colorful"
-      }
-   ]
+[
+  {
+    "name": "Lightning White",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_0.png",
+    "dimensions": "720x1280",
+    "collections": "Light"
+  },
+  {
+    "name": "Meteor Red",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_1.png",
+    "dimensions": "720x1280",
+    "collections": "Light"
+  },
+  {
+    "name": "Meteor Grey",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_2.png",
+    "dimensions": "720x1280",
+    "collections": "Light"
+  },
+  {
+    "name": "Phoenix light concept-1",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-1.jpg",
+    "dimensions": "720x1280",
+    "collections": "Light"
+  },
+  {
+    "name": "Phoenix light concept-2",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
+    "dimensions": "720x1280",
+    "collections": "Light"
+  },
+  {
+    "name": " Light Wing",
+    "author": "Aryanata",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Sky_Wing.png",
+    "dimensions": "720x1280",
+    "collections": "Light"
+  },
+  {
+    "name": "Lighting Dark",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Meteor Green",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_3.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Meteor Yellow",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_4.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Meteor Grey",
+    "author": "Titus Joseph",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_5.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Meteor Blue",
+    "author": "Titus Joseph",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_6.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Phoenix Concept-1",
+    "author": "Aryanata",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept1.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Phoenix Concept-2",
+    "author": "Aryanata",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept2.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Dark Wing-1",
+    "author": "Aryanata",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing_Identity.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Dark Wing-2",
+    "author": "Aryanata",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Dark Wing-3",
+    "author": "Aryanata",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Twilight_Wing.png",
+    "dimensions": "720x1280",
+    "collections": "Dark"
+  },
+  {
+    "name": "Nemesis",
+    "author": "Pavan Patel",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Blue + Pink + Black Card",
+    "author": "Sanketp60",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Meteor Colorful",
+    "author": "Titus Joseph",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_2.png",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Phoenix Colorful",
+    "author": "Titus Joseph",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_3.png",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Phoenix Colorful",
+    "author": "Titus Joseph",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_4.png",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Phoenix Colorful",
+    "author": "Titus Joseph",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_5.png",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Phoenix Colorful",
+    "author": "Titus Joseph",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_6.png",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Phoenix Colorful",
+    "author": "Titus Joseph",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_7.png",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Whateveristic #1",
+    "author": "Whateveristic",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_01.jpeg",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Whateveristic #2",
+    "author": "Whateveristic",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_02.jpeg",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Whateveristic #3",
+    "author": "Whateveristic",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_03.jpeg",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Whateveristic #4",
+    "author": "Whateveristic",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_04.jpeg",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Whateveristic #5",
+    "author": "Whateveristic",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_05.jpeg",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Whateveristic #6",
+    "author": "Whateveristic",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_06.jpeg",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Whateveristic #7",
+    "author": "Whateveristic",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Whateveristic_07.jpeg",
+    "dimensions": "720x1280",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Saxx #1",
+    "author": "Roger Truttmann",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_1.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Saxx #2",
+    "author": "Roger Truttmann",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_2.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Saxx #3",
+    "author": "Roger Truttmann",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_3.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Saxx #4",
+    "author": "Roger Truttmann",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_4.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  }
+]
