@@ -4,7 +4,7 @@
 
 ## What is Superiorwalls:
 
-**Superiorwalls** Is The Wallpaper App based on [Frames](https://github.com/jahirfiquitiva/Frames) of **Superior OS** , This App Contains All The Wallapers Made For Superior OS By the Community.
+**Superiorwalls** Is A Wallpaper App based on [Frames](https://github.com/jahirfiquitiva/Frames) of **Superior OS** , This App Contains All The Wallapers Made For Superior OS By the Community.
 
 ## Some Features:
 
