@@ -405,5 +405,19 @@
     "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/custom_multiverse_madness.png",
     "dimensions": "1080x2340",
     "collections": "Colorful"
+  },
+  {
+    "name": "Christmas #1",
+    "author": "Arun",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Christmas.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  },
+  {
+    "name": "January Update",
+    "author": "Arun",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Jan.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
   }
 ]
