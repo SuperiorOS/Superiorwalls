@@ -1,22 +1,21 @@
-<h1 align="center">Superiorwalls</h1>
+# Superiorwalls
 
-<img src="superiorwalls.png" align="right">
+Superiorwalls is an open-source wallpaper app for SuperiorOS.
 
-## What is Superiorwalls:
+## Contributing:
 
-**Superiorwalls** Is A Wallpaper App based on [Frames](https://github.com/jahirfiquitiva/Frames) of **Superior OS** , This App Contains All The Wallapers Made For Superior OS By the Community.
+We welcome contributions from the community! To contribute to Superiorwalls, please follow the steps outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## Some Features:
+### Credits:
 
-- Material Design dashboard.
-- Theme Support.
-- Cloud based wallpapers.
-- App can work offline.
-- Categories section.
-- Favorites section.
+We would like to thank the following contributors for their contributions to Superiorwalls:
 
-## Credits:
+- [Arun](t.me/arc_ff5f00)
+- [Pawan Patel](t.me/pawanpatel97)
+- [Titus Joseph](t.me/senseijtitus)
+- [Whateveristic](t.me/Whateveristic_1)
+- [Roger Truttmann](t.me/Roger_T)
 
-- [**Jahir Fiquitiva**](https://github.com/jahirfiquitiva) - Frames.
-- [**Udit Karode**](https://github.com/uditkarode) - For Helping/Fixing.
-- [**Wenlin Shen**](https://github.com/hugwalk) - For some UI Improvement.
+To add your name to this list, please submit a pull request.
+
+Thank you for your contributions to Superiorwalls!
