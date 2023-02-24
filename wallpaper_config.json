@@ -1,211 +1,211 @@
 {
-   "Categories":[
-      {
-         "name":"Light"
-      },
-      {
-         "name":"Dark"
-      },
-      {
+  "Categories": [
+    {
+      "name": "Light"
+    },
+    {
+      "name": "Dark"
+    },
+    {
       "name": "Colorful"
-      }
-   ],
-   "Wallpapers":[
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_0.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_0.png",
-         "name":"Lightning White",
-         "category":"Light"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_1.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wLight_1.png",
-         "name":"Meteor Red",
-         "category":"Light"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_2.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_2.png",
-         "name":"Meteor Grey",
-         "category":"Light"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-1.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-1.jpg",
-         "name":"Phoenix light concept-1",
-         "category":"Light"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
-         "name":"Phoenix light concept-2",
-         "category":"Light"
-      },
-      {
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Sky_Wing.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Sky_Wing.png",
-         "name":" Light Wing",
-         "category":"Light"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
-         "name":"Lighting Dark",
-         "category":"Dark"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_1.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_1.png",
-         "name":"Darker Green",
-         "category":"Dark"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_2.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_2.png",
-         "name":"Orange one",
-         "category":"Dark"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_3.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_3.png",
-         "name":"Meteor Green",
-         "category":"Dark"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_4.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_4.png",
-         "name":"Meteor Yellow",
-         "category":"Dark"
-      },
-      {
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_5.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_5.png",
-         "name":"Meteor Grey",
-         "category":"Dark"
-      },
-      {
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_6.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_6.png",
-         "name":"Meteor Blue",
-         "category":"Dark"
-      },
-      {
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept1.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept1.png",
-         "name":"Phoenix Concept-1",
-         "category":"Dark"
-      },
-      {
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept2.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept2.png",
-         "name":"Phoenix Concept-2",
-         "category":"Dark"
-      },
-      {
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing_Identity.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing_Identity.png",
-         "name":"Dark Wing-1",
-         "category":"Dark"
-      },
-      {
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing.png",
-         "name":"Dark Wing-2",
-         "category":"Dark"
-      },
-	  {
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Twilight_Wing.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Twilight_Wing.png",
-         "name":"Dark Wing-3",
-         "category":"Dark"
-      },
-      {
-         "author":"Pavan Patel",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
-         "name":"Nemesis",
-         "category":"Colorful"
-      },
-      {
-         "author":"Sanketp60",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
-         "name":"Blue + Pink + Black Card",
-         "category":"Colorful"
-      },
-      {
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_2.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_2.png",
-         "name":"Meteor Colorful",
-         "category":"Colorful"
-      },
-      {
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_3.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_3.png",
-         "name":"Phoenix Colorful",
-         "category":"Colorful"
-      },
-      {
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_4.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_4.png",
-         "name":"Phoenix Colorful",
-         "category":"Colorful"
-      },
-      {
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_5.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_5.png",
-         "name":"Phoenix Colorful",
-         "category":"Colorful"
-      },
-      {
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_6.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_6.png",
-         "name":"Phoenix Colorful",
-         "category":"Colorful"
-      },
-      {
-         "author":"Titus Joseph",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_7.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_.png",
-         "name":"Phoenix Colorful",
-         "category":"Colorful"
-      },
-	  {
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Wing_Identity.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Wing_Identity.png",
-         "name":"Colorful Wing-1",
-         "category":"Colorful"
-      },
-	  {
-         "author":"Aryanata",
-         "url":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Wing.png",
-         "thumbUrl":"https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Wing.png",
-         "name":"Colorful Wing-2",
-         "category":"Colorful"
-      }
-   ]
+    }
+  ],
+  "Wallpapers": [
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_0.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_0.png",
+      "name": "Lightning White",
+      "category": "Light"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_1.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/wLight_1.png",
+      "name": "Meteor Red",
+      "category": "Light"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_2.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Light_2.png",
+      "name": "Meteor Grey",
+      "category": "Light"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-1.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-1.jpg",
+      "name": "Phoenix light concept-1",
+      "category": "Light"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Phoenix_light-2.jpg",
+      "name": "Phoenix light concept-2",
+      "category": "Light"
+    },
+    {
+      "author": "Aryanata",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Sky_Wing.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Light/Sky_Wing.png",
+      "name": " Light Wing",
+      "category": "Light"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_0.png",
+      "name": "Lighting Dark",
+      "category": "Dark"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_1.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_1.png",
+      "name": "Darker Green",
+      "category": "Dark"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_2.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_2.png",
+      "name": "Orange one",
+      "category": "Dark"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_3.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_3.png",
+      "name": "Meteor Green",
+      "category": "Dark"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_4.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_4.png",
+      "name": "Meteor Yellow",
+      "category": "Dark"
+    },
+    {
+      "author": "Titus Joseph",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_5.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_5.png",
+      "name": "Meteor Grey",
+      "category": "Dark"
+    },
+    {
+      "author": "Titus Joseph",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_6.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Dark_6.png",
+      "name": "Meteor Blue",
+      "category": "Dark"
+    },
+    {
+      "author": "Aryanata",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept1.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept1.png",
+      "name": "Phoenix Concept-1",
+      "category": "Dark"
+    },
+    {
+      "author": "Aryanata",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept2.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Concept2.png",
+      "name": "Phoenix Concept-2",
+      "category": "Dark"
+    },
+    {
+      "author": "Aryanata",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing_Identity.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing_Identity.png",
+      "name": "Dark Wing-1",
+      "category": "Dark"
+    },
+    {
+      "author": "Aryanata",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Night_Wing.png",
+      "name": "Dark Wing-2",
+      "category": "Dark"
+    },
+    {
+      "author": "Aryanata",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Twilight_Wing.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Dark/Twilight_Wing.png",
+      "name": "Dark Wing-3",
+      "category": "Dark"
+    },
+    {
+      "author": "Pavan Patel",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_0.jpg",
+      "name": "Nemesis",
+      "category": "Colorful"
+    },
+    {
+      "author": "Sanketp60",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_1.png",
+      "name": "Blue + Pink + Black Card",
+      "category": "Colorful"
+    },
+    {
+      "author": "Titus Joseph",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_2.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_2.png",
+      "name": "Meteor Colorful",
+      "category": "Colorful"
+    },
+    {
+      "author": "Titus Joseph",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_3.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_3.png",
+      "name": "Phoenix Colorful",
+      "category": "Colorful"
+    },
+    {
+      "author": "Titus Joseph",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_4.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_4.png",
+      "name": "Phoenix Colorful",
+      "category": "Colorful"
+    },
+    {
+      "author": "Titus Joseph",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_5.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_5.png",
+      "name": "Phoenix Colorful",
+      "category": "Colorful"
+    },
+    {
+      "author": "Titus Joseph",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_6.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_6.png",
+      "name": "Phoenix Colorful",
+      "category": "Colorful"
+    },
+    {
+      "author": "Titus Joseph",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_7.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Colorful_.png",
+      "name": "Phoenix Colorful",
+      "category": "Colorful"
+    },
+    {
+      "author": "Aryanata",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Wing_Identity.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Wing_Identity.png",
+      "name": "Colorful Wing-1",
+      "category": "Colorful"
+    },
+    {
+      "author": "Aryanata",
+      "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Wing.png",
+      "thumbUrl": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Wing.png",
+      "name": "Colorful Wing-2",
+      "category": "Colorful"
+    }
+  ]
 }
