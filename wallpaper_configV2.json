@@ -419,5 +419,40 @@
     "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Jan.png",
     "dimensions": "1440x3040",
     "collections": "Colorful"
+  },
+  {
+    "name": "Gradient-01",
+    "author": "Arun",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Grad_01.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Gradient-02",
+    "author": "Arun",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Grad_02.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Material Gradient-01",
+    "author": "Arun",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Material_01.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Material Gradient-02",
+    "author": "Arun",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Material_02.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
+  },
+  {
+    "name": "Gradient Plain",
+    "author": "Arun",
+    "url": "https://raw.githubusercontent.com/SuperiorOS/Superiorwalls/master/Colorful/Superior_Plain_Grad.png",
+    "dimensions": "1440x3040",
+    "collections": "Colorful"
   }
 ]
